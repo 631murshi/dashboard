@@ -15,10 +15,10 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
+//ldf varum ellam sheriyavum
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);
-
+//nokki irunno ippo kittum
   @override
   _HomeScreenState createState() => _HomeScreenState();
 }
